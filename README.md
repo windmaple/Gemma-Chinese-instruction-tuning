@@ -3,3 +3,5 @@
 
 1. 使用Hugging Face库在免费的Colab T4 GPU上微调
 2. 使用Kaggle免费的TPU v3和Keras+JAX微调(速度很快），然后将模型转化为Hugging Face模型
+
+LICENSE: MIT
